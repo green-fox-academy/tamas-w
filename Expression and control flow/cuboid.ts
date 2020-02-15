@@ -6,6 +6,7 @@
 // Surface Area: 600
 // Volume: 1000
 
+
 let lengthCub :number = 10;
 let widhtCub : number = 20;
 let heightCub : number = 30;
